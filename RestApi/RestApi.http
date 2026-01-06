@@ -1,6 +1,32 @@
-@RestApi_HostAddress = http://localhost:5023
+@rootURL = http://localhost:5023
 
-GET {{RestApi_HostAddress}}/weatherforecast/
+GET {{rootURL}}/weatherforecast/
 Accept: application/json
 
 ###
+GET {{rootURL}}/api/books
+Accept: application/json
+
+###
+GET {{rootURL}}/api/books/3
+Accept: application/json
+
+###
+POST {{rootURL}}/api/books
+Content-Type: application/json
+{
+"id": 5,
+"title": "Roucha Moha => Moucha",
+"author": "LaSquale",
+"yearPublished": 2023
+}
+
+###
+PUT {{rootURL}}/api/books/5
+Content-Type: application/json
+{
+"id": 5,
+"title": "Roucha Moha => Moucha",
+"author": "mohalasquale",
+"yearPublished": 2023
+}

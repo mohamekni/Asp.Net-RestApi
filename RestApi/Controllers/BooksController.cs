@@ -36,6 +36,43 @@ namespace RestApi.Controllers
             }
         };
         [HttpGet]
-        public ActionResult
+        public ActionResult<List<Book>> GetBooks()
+        {
+            return Ok(books);
+        }
+        [HttpGet("{id}")]
+        public ActionResult<Book> GetBooksById(int id)
+        {
+            var book = books.FirstOrDefault(books => books.Id == id);
+            if (book == null)
+            {
+                return NotFound();
+            }
+            return Ok(book);
+        }
+        [HttpPost]
+        public ActionResult<Book> AddBook(Book newBook)
+        {
+            if (newBook == null)
+            {
+                return BadRequest();
+            }
+            books.Add(newBook);
+            return CreatedAtAction(nameof(GetBooksById), new { id = newBook.Id }, newBook);
+        }
+        [HttpPut("{id}")]
+        public IActionResult UpdateBook(int id , Book updatedBook) 
+        {
+            var book = books.FirstOrDefault(b => b.Id == id);
+            if(book == null)
+                return NotFound();
+
+            book.Id = updatedBook.Id;
+            book.Title = updatedBook.Title;
+            book.Author = updatedBook.Author;
+            book.YearPublished = updatedBook.YearPublished;
+
+            return NoContent();
+        }
     }
 }

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\Projects\\Asp.Net-RestApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C548A6A0-DE39-ED78-8DB1-A5FD11181523}|RestApi\\RestApi.csproj|c:\\users\\msi\\desktop\\projects\\asp.net-restapi\\restapi\\restapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C548A6A0-DE39-ED78-8DB1-A5FD11181523}|RestApi\\RestApi.csproj|solutionrelative:restapi\\restapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C548A6A0-DE39-ED78-8DB1-A5FD11181523}|RestApi\\RestApi.csproj|c:\\users\\msi\\desktop\\projects\\asp.net-restapi\\restapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C548A6A0-DE39-ED78-8DB1-A5FD11181523}|RestApi\\RestApi.csproj|solutionrelative:restapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C548A6A0-DE39-ED78-8DB1-A5FD11181523}|RestApi\\RestApi.csproj|c:\\users\\msi\\desktop\\projects\\asp.net-restapi\\restapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C548A6A0-DE39-ED78-8DB1-A5FD11181523}|RestApi\\RestApi.csproj|solutionrelative:restapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C548A6A0-DE39-ED78-8DB1-A5FD11181523}|RestApi\\RestApi.csproj|c:\\users\\msi\\desktop\\projects\\asp.net-restapi\\restapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C548A6A0-DE39-ED78-8DB1-A5FD11181523}|RestApi\\RestApi.csproj|solutionrelative:restapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C548A6A0-DE39-ED78-8DB1-A5FD11181523}|RestApi\\RestApi.csproj|c:\\users\\msi\\desktop\\projects\\asp.net-restapi\\restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C548A6A0-DE39-ED78-8DB1-A5FD11181523}|RestApi\\RestApi.csproj|solutionrelative:restapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Projects\\Asp.Net-RestApi\\RestApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "RestApi\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Projects\\Asp.Net-RestApi\\RestApi\\Models\\Book.cs",
+              "RelativeToolTip": "RestApi\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:09:45.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Projects\\Asp.Net-RestApi\\RestApi\\appsettings.json",
+              "RelativeDocumentMoniker": "RestApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Projects\\Asp.Net-RestApi\\RestApi\\appsettings.json",
+              "RelativeToolTip": "RestApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-06T14:05:16.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Projects\\Asp.Net-RestApi\\RestApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "RestApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Projects\\Asp.Net-RestApi\\RestApi\\Controllers\\BooksController.cs*",
+              "RelativeToolTip": "RestApi\\Controllers\\BooksController.cs*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T13:56:07.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Projects\\Asp.Net-RestApi\\RestApi\\Program.cs",
+              "RelativeDocumentMoniker": "RestApi\\Program.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Projects\\Asp.Net-RestApi\\RestApi\\Program.cs",
+              "RelativeToolTip": "RestApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T22:32:13.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestApi.http",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\Projects\\Asp.Net-RestApi\\RestApi\\RestApi.http",
+              "RelativeDocumentMoniker": "RestApi\\RestApi.http",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\Projects\\Asp.Net-RestApi\\RestApi\\RestApi.http",
+              "RelativeToolTip": "RestApi\\RestApi.http",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA5wB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-01-05T22:23:48.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
