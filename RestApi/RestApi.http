@@ -30,3 +30,6 @@ Content-Type: application/json
 "author": "mohalasquale",
 "yearPublished": 2023
 }
+###
+DELETE {{rootURL}}/api/books/5
+Accept: application/json
